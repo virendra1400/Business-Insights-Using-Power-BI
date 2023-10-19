@@ -8,7 +8,8 @@ I worked on this project following the Codebasics PowerBi Course, which provided
 
 ### **Live Report Link**
 
-[Live Report Link here](https://app.powerbi.com/groups/me/reports/265a31db-6cf9-432f-8b8e-55c52be30436?pbi_source=desktop)
+[Live Report Link here](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZGNhMTEtMDJjYy00Y2I5LTgxOGYtMzM0NmQzMzYxNTg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 ### **Tech Stacks**
 
@@ -93,26 +94,25 @@ As the database is MySQL in this project, we need to import the datasets from My
 ## Page-wise Dashboard Preview
 
 ### Info
-![Diagram](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Info.png)
+![Info](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Info.JPG)
 
 ### Home
-(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Home.png)
+![Home](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Home.JPG)
 
 ### Finance View
-(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Finanace_View.png)
+![Finance View](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Finance_VIew.JPG)
 
 ### Sales View
-(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Sales_View.png)
+![Sales View](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Sales_View.JPG)
 
 ### Marketing View
-(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Marketing_View.png)
+![Marketing View](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Marketing_View.JPG)
 
 ### Supply Chain View
-(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Supply_Chain_View.png)
+![Supply Chain View](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Supply_Chain_View.JPG)
 
 ### Executive View
-(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Executive_View.png)
+![Executive View](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Executive_View.JPG)
 
 ### Support
-
-(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Support.png)
+![Support](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Support.JPG)
