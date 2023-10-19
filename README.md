@@ -10,7 +10,7 @@ I worked on this project following the Codebasics PowerBi Course, which provided
 
 [Add Live Report Link here]
 
-**Tech Stacks**
+### **Tech Stacks**
 
 -SQL
 -PowerBi Desktop
@@ -19,7 +19,7 @@ I worked on this project following the Codebasics PowerBi Course, which provided
 -DAX studio (for optimizing the report)
 -Project charter file
 
-**PowerBI Techniques Learned**
+### **PowerBI Techniques Learned**
 
 -Critical pre-project questions
 -Creating calculated columns
@@ -39,7 +39,7 @@ I worked on this project following the Codebasics PowerBi Course, which provided
 -Collaboration, workspace, and access permissions in PowerBi services
 -And more 😅
 
-**Business Related Terms**
+### **Business Related Terms**
 
 Gaining familiarity with terms including but not limited to:
 
@@ -58,18 +58,18 @@ Gaining familiarity with terms including but not limited to:
 -Distributors
 -Consumer
 
-**Dataset Understanding**
+### **Dataset Understanding**
 
 Before delving into the analysis, a comprehensive understanding of the available dataset was crucial. The dataset comprises:
 Dimension Table
 
-    gdb041:
+    `gdb041`:
         dim_customer: 27 distinct markets, 75 customers, 2 types of platforms, 3 channels.
         dim_market: 27 distinct markets, 7 sub-zones, 4 regions.
         dim_product: Divisions, categories, and product variants.
         fact_forecast_monthly: Table for forecasting customer needs.
         fact_sales_monthly: Table containing sold quantities.
-    gdb056:
+    `gdb056`:
         freight_cost: Details of travel costs per market.
         gross_price: Details of gross prices with product code.
         manufacturing_cost: Details of manufacturing costs with product code and year.
