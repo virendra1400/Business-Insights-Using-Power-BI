@@ -93,23 +93,26 @@ As the database is MySQL in this project, we need to import the datasets from My
 ## Page-wise Dashboard Preview
 
 ### Info
+![Diagram](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Info.png)
 
 ### Home
-
+(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Home.png)
 
 ### Finance View
-
+(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Finanace_View.png)
 
 ### Sales View
-
+(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Sales_View.png)
 
 ### Marketing View
-
+(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Marketing_View.png)
 
 ### Supply Chain View
-
+(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Supply_Chain_View.png)
 
 ### Executive View
-
+(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Executive_View.png)
 
 ### Support
+
+(https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Support.png)
