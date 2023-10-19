@@ -75,3 +75,16 @@ Dimension Table
         manufacturing_cost: Details of manufacturing costs with product code and year.
         Pre_invoice_dedutions: Details of pre-invoice deductions with customer and year.
         Post_invoice_deductions: Details of post-invoice deductions and related information.
+        
+## Importing data into PowerBi
+
+As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
+
+## Data Model
+
+-Data modeling serves as a crucial foundation for the report, playing a pivotal role in its construction. All visualizations are built upon this data model, making its integrity and structure vital for accurate insights.
+
+-Effective data modeling is imperative as poor practices can significantly impact the overall performance of the report. To ensure high-quality modeling, adhering to best practices is essential.
+
+-For this project, we have implemented the Snowfall data modeling method, leveraging its strengths to optimize our analytical approach.
+
