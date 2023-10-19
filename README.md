@@ -82,9 +82,11 @@ As the database is MySQL in this project, we need to import the datasets from My
 
 ## Data Model
 
--Data modeling serves as a crucial foundation for the report, playing a pivotal role in its construction. All visualizations are built upon this data model, making its integrity and structure vital for accurate insights.
+- Data modeling serves as a crucial foundation for the report, playing a pivotal role in its construction. All visualizations are built upon this data model, making its integrity and structure vital for accurate insights.
 
--Effective data modeling is imperative as poor practices can significantly impact the overall performance of the report. To ensure high-quality modeling, adhering to best practices is essential.
+- Effective data modeling is imperative as poor practices can significantly impact the overall performance of the report. To ensure high-quality modeling, adhering to best practices is essential.
 
--For this project, we have implemented the Snowfall data modeling method, leveraging its strengths to optimize our analytical approach.
+- For this project, we have implemented the Snowfall data modeling method, leveraging its strengths to optimize our analytical approach.
+
+
 
