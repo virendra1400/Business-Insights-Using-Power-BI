@@ -8,7 +8,7 @@ I worked on this project following the Codebasics PowerBi Course, which provided
 
 ### **Live Report Link**
 
-[Add Live Report Link here]
+[Live Report Link here](https://app.powerbi.com/groups/me/reports/265a31db-6cf9-432f-8b8e-55c52be30436?pbi_source=desktop)
 
 ### **Tech Stacks**
 
@@ -88,5 +88,28 @@ As the database is MySQL in this project, we need to import the datasets from My
 
 - For this project, we have implemented the Snowfall data modeling method, leveraging its strengths to optimize our analytical approach.
 
+![Diagram](https://github.com/virendra1400/Business-Insights-Using-Power-BI/blob/main/Data_model.png)
+
+## Page-wise Dashboard Preview
+
+### Info
+
+### Home
 
 
+### Finance View
+
+
+### Sales View
+
+
+### Marketing View
+
+
+### Supply Chain View
+
+
+### Executive View
+
+
+### Support
