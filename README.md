@@ -12,51 +12,51 @@ I worked on this project following the Codebasics PowerBi Course, which provided
 
 ### **Tech Stacks**
 
--SQL
--PowerBi Desktop
--Excel
--DAX language
--DAX studio (for optimizing the report)
--Project charter file
+1. SQL
+2. PowerBi Desktop
+3. Excel
+4. DAX language
+5. DAX studio (for optimizing the report)
+6. Project charter file
 
 ### **PowerBI Techniques Learned**
 
--Critical pre-project questions
--Creating calculated columns
--Creating measures using DAX language
--Data modeling
--Using Bookmarks for visual switching
--Page navigation with buttons
--Utilizing the divide function to prevent zero division errors
--Creating date tables using M language
--Dynamic titles based on applied filters
--Implementing KPI indicators
--Conditional formatting for visuals using icons or background color
--Data validation techniques
--PowerBi services and report publishing
--Setting up a personal gateway for data auto-refresh
--PowerBi App creation
+- Critical pre-project questions
+- Creating calculated columns
+- Creating measures using DAX language
+- Data modeling
+- Using Bookmarks for visual switching
+- Page navigation with buttons
+- Utilizing the divide function to prevent zero division errors
+- Creating date tables using M language
+- Dynamic titles based on applied filters
+- Implementing KPI indicators
+- Conditional formatting for visuals using icons or background color
+- Data validation techniques
+- PowerBi services and report publishing
+- Setting up a personal gateway for data auto-refresh
+- PowerBi App creation
 -Collaboration, workspace, and access permissions in PowerBi services
--And more 😅
+- And more 😅
 
 ### **Business Related Terms**
 
 Gaining familiarity with terms including but not limited to:
 
--Gross price
--Pre-invoice deductions
--Post-Invoice deductions
--Net Invoice sale
--Gross Margin
--Net sales
--Net profit
--COGC - cost of goods sold
--YTD - Year to Date
--YTG - Year to Go
--Direct
--Retailer
--Distributors
--Consumer
+- Gross price
+- Pre-invoice deductions
+- Post-Invoice deductions
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGC - cost of goods sold
+- YTD - Year to Date
+- YTG - Year to Go
+- Direct
+- Retailer
+- Distributors
+- Consumer
 
 ### **Dataset Understanding**
 
